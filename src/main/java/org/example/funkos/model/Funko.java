@@ -1,4 +1,4 @@
-
+package org.example.funkos.model;
 
 
 import java.math.BigDecimal;
